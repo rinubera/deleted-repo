@@ -1,0 +1,20 @@
+# Salesforce DX & IDE files
+.sfdx/
+.sf/
+.vscode/
+.history/
+*/aura/*/.DS_Store
+.apex/
+.local/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules (if any npm packages are present)
+node_modules/
